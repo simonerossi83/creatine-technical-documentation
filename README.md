@@ -1,2 +1,3 @@
-# creatine-technical-documentation
-Technical documentation about Creatine. Build off a FreeCodeCamp capstone project
+# Technical documentation about Creatine
+
+I built this technical page off a *FreeCodeCamp* capstone project.
